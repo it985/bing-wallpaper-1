@@ -22,8 +22,8 @@ jobs:
 
     - name: Push
       run: |
-        git config --global user.email "icolabot@e.yfun.top"
-        git config --global user.name "iColaBot"
+        git config --global user.email "2071916845@qq.com"
+        git config --global user.name "it985"
         git add -A
         git commit --allow-empty -m "Update Bing Wallpaper"
         #git pull origin master
